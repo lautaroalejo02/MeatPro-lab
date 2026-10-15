@@ -60,7 +60,9 @@
       <button id="next">Siguiente →</button>
     </nav>
     <div class="grid" id="grid"></div>
-    <p class="muted">Cuando termines: <button class="export" id="export">Descargar mis respuestas (CSV)</button></p>
+    <p class="muted">Cuando termines: <button class="export" id="copy">Copiar mis respuestas (texto)</button>
+      <button class="export" id="export">Descargar CSV</button></p>
+    <textarea id="out" readonly style="width:100%;height:90px;display:none;background:#101216;color:var(--text);border:1px solid #2a2e35;border-radius:6px;padding:8px;"></textarea>
   </div>
 </main>
 <script>
@@ -117,6 +119,12 @@ $("export").onclick = () => {
   const rows = ["id_ciego,tilt_autor"].concat(ITEMS.map(it => it.id + "," + (it.id in ans ? ans[it.id] : "")));
   const blob = new Blob(["﻿" + rows.join("\r\n")], {type:"text/csv;charset=utf-8"});
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "validacion_humana_respuestas.csv"; a.click();
+};
+$("copy").onclick = async () => {
+  const txt = "VALIDACION " + ITEMS.map(it => it.id + ":" + (it.id in ans ? ans[it.id] : "_")).join(" ");
+  const box = $("out"); box.style.display = "block"; box.value = txt; box.select();
+  try { await navigator.clipboard.writeText(txt); $("copy").textContent = "¡Copiado! Pegalo en el chat"; }
+  catch (e) { $("copy").textContent = "Seleccioná el texto de abajo y copialo"; }
 };
 render();
 </script></body></html>
