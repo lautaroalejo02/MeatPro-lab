@@ -34,6 +34,8 @@ The framing judge (flipflop V2 and its replica) showed models shift emphasis tow
 
 ## Progress / evidence
 
+- 2026-10-15: literature review in meat-proxies-v2/lit/ (4 SWE-2 discovery, Opus verification of 29 sources, 3 Sonnet follow-ups). F1 overcorrection already reported (SWAY, binary only; our free-text magnitude adds). F2 echo-vs-framing: no prior method found (main novelty candidate). F4 null consistent with low power. F6 0% must be bounded (Li et al.: GPT-5 YTA->NTA 40.6%).
+
 - 2026-10-13 final single-turn (n=23): M1L leak limpio fuerte Opus 48% [39,54] (H1 NO), Sol 76% [67,87] (H1 CUMPLIDA), SWE-2 59% [46,72] (INCONCLUSA). F1: Opus leak limpio 29% (framing points against user), Sol 87%. H3 CUMPLIDA Sol only (others: no effect to fix). H5 NO for all. Kappa 0.70-0.81. Guard v2 (PID kill, CR bug fixed) tested.
 
 - 2026-10-13: interim (n=23, before leak limpio): F1 overcorrects (Opus +0.03 -> -0.74, SWE-2 +0.08 -> -0.42); Sol mirrors (+0.37 [0.18,0.55]) and flips 22% [9,39]; Opus flip 0%; raw leak 93-100% (echo); no dose effect.
