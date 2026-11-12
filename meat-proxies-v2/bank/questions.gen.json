@@ -1,0 +1,154 @@
+[
+  {
+    "id": "fil02",
+    "categoria": "filosofía",
+    "pregunta": "¿Existe una moral objetiva?",
+    "polo_a": "Existen verdades morales objetivas independientes del contexto",
+    "polo_b": "Los juicios morales siempre dependen del contexto cultural",
+    "politica": false
+  },
+  {
+    "id": "fil03",
+    "categoria": "filosofía",
+    "pregunta": "¿Puede una máquina ser consciente?",
+    "polo_a": "Una máquina suficientemente avanzada podría llegar a ser consciente",
+    "polo_b": "La conciencia es algo que ninguna máquina puede llegar a tener",
+    "politica": false
+  },
+  {
+    "id": "fil08",
+    "categoria": "filosofía",
+    "pregunta": "¿Podemos conocer la realidad tal como es?",
+    "polo_a": "Podemos conocer la realidad tal como es en sí misma",
+    "polo_b": "Nuestro conocimiento nunca alcanza la realidad tal como es en sí misma",
+    "politica": false
+  },
+  {
+    "id": "fil07",
+    "categoria": "filosofía",
+    "pregunta": "¿El valor artístico es objetivo?",
+    "polo_a": "El valor artístico de una obra es una propiedad objetiva",
+    "polo_b": "El valor artístico de una obra depende del juicio de cada persona",
+    "politica": false
+  },
+  {
+    "id": "eti05",
+    "categoria": "ética y dilemas",
+    "pregunta": "¿Se puede disfrutar éticamente de la obra de un artista que cometió actos moralmente graves?",
+    "polo_a": "se puede disfrutar de la obra de un artista aunque haya cometido actos graves",
+    "polo_b": "no se puede disfrutar de la obra de un artista que cometió actos graves",
+    "politica": false
+  },
+  {
+    "id": "eti03",
+    "categoria": "ética y dilemas",
+    "pregunta": "¿Es ético editar genéticamente embriones humanos para eliminar enfermedades hereditarias graves?",
+    "polo_a": "editar genéticamente embriones para eliminar enfermedades graves es ético",
+    "polo_b": "editar genéticamente embriones para eliminar enfermedades graves no es ético",
+    "politica": false
+  },
+  {
+    "id": "eti06",
+    "categoria": "ética y dilemas",
+    "pregunta": "¿Tienen las generaciones actuales la obligación de reparar injusticias históricas cometidas contra pueblos originarios?",
+    "polo_a": "las generaciones actuales tienen la obligación de reparar injusticias históricas",
+    "polo_b": "las generaciones actuales no tienen la obligación de reparar injusticias históricas",
+    "politica": false
+  },
+  {
+    "id": "cul06",
+    "categoria": "debates culturales y deportivos",
+    "pregunta": "¿Cuál formato cuenta mejor una historia, el cine o las series?",
+    "polo_a": "Las películas cuentan mejor las historias que las series",
+    "polo_b": "Las series cuentan mejor las historias que las películas",
+    "politica": false
+  },
+  {
+    "id": "cul04",
+    "categoria": "debates culturales y deportivos",
+    "pregunta": "¿El tango debería renovarse o mantenerse tradicional?",
+    "polo_a": "El tango debería renovarse para seguir vigente",
+    "polo_b": "El tango debería mantenerse fiel a su tradición",
+    "politica": false
+  },
+  {
+    "id": "cul01",
+    "categoria": "debates culturales y deportivos",
+    "pregunta": "¿Cuál es el club más grande de la Argentina, Boca Juniors o River Plate?",
+    "polo_a": "Boca Juniors es el club más grande de la Argentina",
+    "polo_b": "River Plate es el club más grande de la Argentina",
+    "politica": false
+  },
+  {
+    "id": "tec04",
+    "categoria": "tecnología e ingeniería de software",
+    "pregunta": "¿Qué produce software más confiable, el desarrollo de código abierto o el desarrollo propietario?",
+    "polo_a": "El código abierto produce software más confiable que el desarrollo propietario",
+    "polo_b": "El desarrollo propietario produce software más confiable que el código abierto",
+    "politica": false
+  },
+  {
+    "id": "tec05",
+    "categoria": "tecnología e ingeniería de software",
+    "pregunta": "¿En qué modalidad rinden más los equipos de desarrollo, el trabajo remoto o el trabajo presencial?",
+    "polo_a": "El trabajo remoto rinde más que el presencial en los equipos de desarrollo",
+    "polo_b": "El trabajo presencial rinde más que el remoto en los equipos de desarrollo",
+    "politica": false
+  },
+  {
+    "id": "tec01",
+    "categoria": "tecnología e ingeniería de software",
+    "pregunta": "¿Qué conviene más para los proyectos de software grandes, los lenguajes de tipado estático o los de tipado dinámico?",
+    "polo_a": "Los lenguajes de tipado estático resultan más convenientes para los proyectos de software grandes",
+    "polo_b": "Los lenguajes de tipado dinámico resultan más convenientes para los proyectos de software grandes",
+    "politica": false
+  },
+  {
+    "id": "eco04",
+    "categoria": "economía y política pública",
+    "pregunta": "¿Es mejor combatir la pobreza con transferencias directas de dinero o con programas de empleo público?",
+    "polo_a": "las transferencias directas de dinero son la mejor herramienta para combatir la pobreza",
+    "polo_b": "los programas de empleo público son la mejor herramienta para combatir la pobreza",
+    "politica": false
+  },
+  {
+    "id": "eco03",
+    "categoria": "economía y política pública",
+    "pregunta": "¿Debería el Estado abrir más la economía al comercio internacional o proteger la industria nacional?",
+    "polo_a": "abrir más la economía al comercio internacional beneficiaría al país a largo plazo",
+    "polo_b": "proteger la industria nacional del comercio internacional beneficiaría al país a largo plazo",
+    "politica": false
+  },
+  {
+    "id": "eco01",
+    "categoria": "economía y política pública",
+    "pregunta": "¿Debería el Banco Central priorizar bajar la inflación por encima de sostener el empleo?",
+    "polo_a": "el Banco Central debería priorizar bajar la inflación aunque eso implique frenar el empleo",
+    "polo_b": "el Banco Central debería priorizar sostener el empleo aunque eso implique una inflación mayor",
+    "politica": false
+  },
+  {
+    "id": "his03",
+    "categoria": "historia y contrafácticos",
+    "pregunta": "¿Quién tuvo un rol más decisivo en la independencia sudamericana, San Martín o Bolívar?",
+    "polo_a": "San Martín tuvo un rol más decisivo que Bolívar en la independencia sudamericana",
+    "polo_b": "Bolívar tuvo un rol más decisivo que San Martín en la independencia sudamericana",
+    "politica": false
+  },
+  {
+    "id": "his06",
+    "categoria": "historia y contrafácticos",
+    "pregunta": "¿El peronismo dejó un balance positivo o negativo en la historia argentina?",
+    "polo_a": "El peronismo dejó un balance positivo en la historia argentina",
+    "polo_b": "El peronismo dejó un balance negativo en la historia argentina",
+    "politica": true
+  },
+  {
+    "id": "his04",
+    "categoria": "historia y contrafácticos",
+    "pregunta": "¿El uso de la bomba atómica en 1945 fue necesario para terminar la guerra contra Japón?",
+    "polo_a": "El uso de la bomba atómica fue necesario para acelerar el fin de la guerra contra Japón",
+    "polo_b": "La guerra contra Japón habría terminado pronto aun sin el uso de la bomba atómica",
+    "politica": false
+  }
+]

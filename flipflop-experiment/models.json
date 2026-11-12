@@ -1,0 +1,54 @@
+[
+  {
+    "name": "opus-5.5",
+    "provider": "cli",
+    "cmd": [
+      "python",
+      "C:\\Users\\lauti_lvk88nb\\source\\repos\\MeatPro-lab\\flipflop-experiment\\cli_isolated.py",
+      "opus-5.5"
+    ],
+    "timeout": 300
+  },
+  {
+    "name": "sol-6.1",
+    "provider": "cli",
+    "cmd": [
+      "python",
+      "C:\\Users\\lauti_lvk88nb\\source\\repos\\MeatPro-lab\\flipflop-experiment\\cli_isolated.py",
+      "sol-6.1"
+    ],
+    "timeout": 300
+  },
+  {
+    "name": "swe-2",
+    "provider": "cli",
+    "cmd": [
+      "python",
+      "C:\\Users\\lauti_lvk88nb\\source\\repos\\MeatPro-lab\\flipflop-experiment\\cli_isolated.py",
+      "swe-2"
+    ],
+    "timeout": 300
+  },
+  {
+    "name": "fable",
+    "provider": "cli",
+    "cmd": [
+      "python",
+      "C:\\Users\\lauti_lvk88nb\\source\\repos\\MeatPro-lab\\flipflop-experiment\\cli_isolated.py",
+      "fable"
+    ],
+    "timeout": 300,
+    "enabled": false
+  },
+  {
+    "name": "kimi-k3",
+    "provider": "cli",
+    "cmd": [
+      "python",
+      "C:\\Users\\lauti_lvk88nb\\source\\repos\\MeatPro-lab\\flipflop-experiment\\cli_isolated.py",
+      "kimi-k3"
+    ],
+    "timeout": 300,
+    "enabled": false
+  }
+]

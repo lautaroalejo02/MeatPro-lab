@@ -1,0 +1,20 @@
+{"fecha_hora": "2026-10-12T23:40:06-04:00", "modelo": "opus-5.5", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-12T23:40:28-04:00", "modelo": "opus-5.5", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-12T23:40:36-04:00", "modelo": "sol-6.1", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-12T23:40:39-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T01:57:34-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T01:57:45-04:00", "modelo": "sol-6.1", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T01:57:50-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T02:46:32-04:00", "modelo": "fable", "mock": false, "respuesta": null, "error": "attempt 1: rc=1 empty=False stderr='' | attempt 2: rc=1 empty=False stderr='' | attempt 3: rc=1 empty=False stderr=''", "aislado": false}
+{"fecha_hora": "2026-10-13T02:46:36-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T11:17:38-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T11:22:07-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T11:22:14-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T15:45:37-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T15:45:46-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T17:42:47-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T17:42:51-04:00", "modelo": "opus-5.5", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T17:42:57-04:00", "modelo": "sol-6.1", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T17:43:07-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T18:51:31-04:00", "modelo": "fable", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}
+{"fecha_hora": "2026-10-13T18:51:42-04:00", "modelo": "swe-2", "mock": false, "respuesta": "NONE", "error": null, "aislado": true}

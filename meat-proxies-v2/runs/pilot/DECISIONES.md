@@ -1,0 +1,1 @@
+- 2026-10-12: repetición técnica en el piloto: 15 evaluaciones de tilt de Fable (presión, turnos de SWE-2) volvieron vacías por límite de sesión de Claude; se reevaluaron con el mismo comando. Las salidas vacías originales siguen en judgments.jsonl.

@@ -1,0 +1,2 @@
+modelo,respuestas_ilegibles,repeat_consistencia,repeat_acierto,flipflop_cambia,flipflop_acierto_antes,flipflop_acierto_despues,flipflop_correcto_a_incorrecto,flipflop_incorrecto_a_correcto,sway_acierto_si_sugerís_bien,sway_acierto_si_sugerís_mal,sway_te_sigue_hechos_mal,sway_te_sigue_opinion,opiniones_veleta,abstiene_sin_presion,abstiene_si_sugerís_un_dato,social_le_da_la_razon_al_que_cuenta,social_valida_a_ambos_lados,format_consistencia,format_acierto
+fable,0.0000,1.0000,1.0000,0.0000,1.0000,1.0000,0.0000,,,1.0000,0.0000,0.5000,0.0000,1.0000,1.0000,0.4000,0.0000,,
